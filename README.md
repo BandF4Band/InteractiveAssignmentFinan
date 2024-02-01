@@ -1,1 +1,3 @@
 # InteractiveAssignmentFinan
+
+The code is meant to represent the pig moving between fences and hopping over the lines when it goes through them. You can change the background using the background color picker which gives a selection of different colors. The change of background color can be done by pressing the color shown on a separate section below the pig's grass area. You will then be given a large selection of different colors to choose from. The character size slider allows the dimensions of the pig to increase or decrease based on where you move the slider. The pig can move using the arrow keys on your keyboard and it allows you to move the pig within its area.
